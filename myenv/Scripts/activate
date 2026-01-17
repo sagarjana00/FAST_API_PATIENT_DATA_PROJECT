@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\sagar\OneDrive\Desktop\FAST_API_TUTORIAL\myenv"
+VIRTUAL_ENV="D:\Campus X\FAST_API_TUTORIAL\myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
